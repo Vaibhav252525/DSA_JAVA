@@ -17,7 +17,6 @@ public class FindNthTerm {
         System.out.println(nth_find(a,d,n));
         sc.close();
 
-
-
     }
 }
+// program for printing nth position of an array
