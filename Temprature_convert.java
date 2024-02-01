@@ -1,7 +1,4 @@
 
-import java.util.*;
-import java.lang.*;
-import java.io.*;
 class Temprature_convert
 {
     public static void main (String[] args)
