@@ -15,3 +15,5 @@ public class GeometricProgression {
     }
     
 }
+
+// program for printing nth position of an array
