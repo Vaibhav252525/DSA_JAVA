@@ -13,3 +13,4 @@ public class FirstNatural {
         sc.close();
     }
 }
+// sum of first N natural numbers
