@@ -8,13 +8,13 @@ public class FindNthTerm {
 
     public static void main(String args[]){
         Scanner sc= new Scanner(System.in);
-        System.out.println("Enter value of A");
+        System.out.println("Enter value of A");// starting value of Array
         int a=  sc.nextInt();
-        System.out.println("Enter value of D");
+        System.out.println("Enter value of D"); // Difference between two numbers in Array
         int d= sc.nextInt();
-        System.out.println("Enter value of N");
+        System.out.println("Enter value of N"); // Nth Term which has to be find
         int n= sc.nextInt();
-        System.out.println(nth_find(a,d,n));
+        System.out.println("Nth term is " +nth_find(a,d,n));
         sc.close();
 
     }
