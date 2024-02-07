@@ -10,3 +10,5 @@ public class Vovels {
         
     }
 }
+
+//program to check vovel
