@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Calculator {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Select the Operation\n a.addition\n 2.substraction\n 3.Multiplication");
+        System.out.println("Select the Operation\n 1.addition\n 2.substraction\n 3.Multiplication");
         int Operation = sc.nextInt();
         if (Operation != 1 && Operation != 2 && Operation != 3) {
             System.out.println("Invalid");
