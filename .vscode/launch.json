@@ -1,0 +1,385 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Break",
+            "request": "launch",
+            "mainClass": "Loops.Break",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "Continue",
+            "request": "launch",
+            "mainClass": "Loops.Continue",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "Do_while",
+            "request": "launch",
+            "mainClass": "Loops.Do_while",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "A",
+            "request": "launch",
+            "mainClass": "A",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "AreaOFTriangle",
+            "request": "launch",
+            "mainClass": "AreaOFTriangle",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "ArithmeticOperator",
+            "request": "launch",
+            "mainClass": "ArithmeticOperator",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "Ascii",
+            "request": "launch",
+            "mainClass": "Ascii",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "Ascii1",
+            "request": "launch",
+            "mainClass": "Ascii1",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "Autoboxing",
+            "request": "launch",
+            "mainClass": "Autoboxing",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "BitwiseNot",
+            "request": "launch",
+            "mainClass": "BitwiseNot",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "BitwiseOR",
+            "request": "launch",
+            "mainClass": "BitwiseOR",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "Buferred",
+            "request": "launch",
+            "mainClass": "Buferred",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "Circle",
+            "request": "launch",
+            "mainClass": "Circle",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "CommandArgument",
+            "request": "launch",
+            "mainClass": "CommandArgument",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "Even_Odd",
+            "request": "launch",
+            "mainClass": "Even_Odd",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "Explicit",
+            "request": "launch",
+            "mainClass": "Explicit",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci_series",
+            "request": "launch",
+            "mainClass": "Fibonacci_series",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "FindNthTerm",
+            "request": "launch",
+            "mainClass": "FindNthTerm",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "FirstNatural",
+            "request": "launch",
+            "mainClass": "FirstNatural",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "FirstProgram",
+            "request": "launch",
+            "mainClass": "FirstProgram",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "FirstWhile",
+            "request": "launch",
+            "mainClass": "FirstWhile",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "GeometricProgression",
+            "request": "launch",
+            "mainClass": "GeometricProgression",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "If_else",
+            "request": "launch",
+            "mainClass": "If_else",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "Implicit",
+            "request": "launch",
+            "mainClass": "Implicit",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "Large_number",
+            "request": "launch",
+            "mainClass": "Large_number",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "Large_number1",
+            "request": "launch",
+            "mainClass": "Large_number1",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "Large_number2",
+            "request": "launch",
+            "mainClass": "Large_number2",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "LastDigit",
+            "request": "launch",
+            "mainClass": "LastDigit",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "LeapYear",
+            "request": "launch",
+            "mainClass": "LeapYear",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "Logi_operatorEg",
+            "request": "launch",
+            "mainClass": "Logi_operatorEg",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "LogicalOperator",
+            "request": "launch",
+            "mainClass": "LogicalOperator",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "For_Loop",
+            "request": "launch",
+            "mainClass": "Loops.For_Loop",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "While_Loop",
+            "request": "launch",
+            "mainClass": "Loops.While_Loop",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "LowertoUpper",
+            "request": "launch",
+            "mainClass": "LowertoUpper",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "Money",
+            "request": "launch",
+            "mainClass": "Money",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "Nest_if_else",
+            "request": "launch",
+            "mainClass": "Nest_if_else",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "Newline",
+            "request": "launch",
+            "mainClass": "Newline",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "Product",
+            "request": "launch",
+            "mainClass": "Product",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "RelationalOperator",
+            "request": "launch",
+            "mainClass": "RelationalOperator",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "RightShift",
+            "request": "launch",
+            "mainClass": "RightShift",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "Sc",
+            "request": "launch",
+            "mainClass": "Sc",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "StudentDetails",
+            "request": "launch",
+            "mainClass": "StudentDetails",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "SumOFTwoNumber",
+            "request": "launch",
+            "mainClass": "SumOFTwoNumber",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "Swap",
+            "request": "launch",
+            "mainClass": "Swap",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "Switch",
+            "request": "launch",
+            "mainClass": "Switch",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "TakingInput",
+            "request": "launch",
+            "mainClass": "TakingInput",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "Temprature_convert",
+            "request": "launch",
+            "mainClass": "Temprature_convert",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "TernaryOperatorExample",
+            "request": "launch",
+            "mainClass": "TernaryOperatorExample",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "UppertoLower",
+            "request": "launch",
+            "mainClass": "UppertoLower",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "Vovels",
+            "request": "launch",
+            "mainClass": "Vovels",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "prime",
+            "request": "launch",
+            "mainClass": "prime",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        }
+    ]
+}
