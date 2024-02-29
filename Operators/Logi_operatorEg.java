@@ -1,3 +1,4 @@
+package Operators;
 public class Logi_operatorEg {
     
         public static void main(String[] args) {

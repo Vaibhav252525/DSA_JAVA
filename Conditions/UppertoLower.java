@@ -1,3 +1,4 @@
+
 public class UppertoLower {
     public static void main(String args[]) {
         char ch1 ='P';

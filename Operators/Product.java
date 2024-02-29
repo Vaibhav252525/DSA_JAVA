@@ -1,3 +1,4 @@
+package Operators;
 public class Product {
     public static void main(String[] args) {
         float first = 1.25f;

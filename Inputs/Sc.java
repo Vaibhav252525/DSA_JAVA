@@ -1,3 +1,4 @@
+package Inputs;
 import java.util.Scanner;
 
 public class Sc {

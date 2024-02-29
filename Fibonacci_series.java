@@ -1,4 +1,4 @@
-  // Fibonacci series program in java
+// Fibonacci series program in java
 
 public class  Fibonacci_series{
 	// Function to print N Fibonacci Number

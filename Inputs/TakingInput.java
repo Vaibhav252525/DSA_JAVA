@@ -1,3 +1,4 @@
+package Inputs;
 // Java program to demonstrate working of Scanner in Java
 import java.util.*;
 public class TakingInput{

@@ -1,3 +1,4 @@
+package Inputs;
 import java.io.*;
 import java.io.BufferedReader;
 
