@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Switch",
+            "request": "launch",
+            "mainClass": "Switch_Statements.Switch",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "SumofNnatural",
+            "request": "launch",
+            "mainClass": "SumofNnatural",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "Buferred",
+            "request": "launch",
+            "mainClass": "Inputs.Buferred",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
             "name": "Conversion",
             "request": "launch",
             "mainClass": "Type_conversion.Conversion",

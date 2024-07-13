@@ -1,6 +1,10 @@
 import java.util.Scanner;
 
-public class Switch {
+import javax.swing.DefaultBoundedRangeModel;
+
+import org.omg.CORBA.DynAnyPackage.Invalid;
+
+public class Switchcopy {
     public static void main(String[] args) {
         int x=0, y=0;
         System.out.println("Enter move");
@@ -23,11 +27,9 @@ public class Switch {
             case 'U':
             y++;
             break;
-
-            default:
-            System.out.println("Invalid");
         }
-        sc.close();
+        Default:
+        System.out.println("Invalid");
 
     }
 }
