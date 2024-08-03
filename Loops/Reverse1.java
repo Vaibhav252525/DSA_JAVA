@@ -1,3 +1,4 @@
+package Loops;
 public class Reverse1 {
     public static void main(String[] args) {
         int n=123,rev=0;

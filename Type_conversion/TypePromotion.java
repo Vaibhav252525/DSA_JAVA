@@ -1,3 +1,4 @@
+package Type_conversion;
 public class TypePromotion {
    public static void main(String[] args) {
     int a=23;

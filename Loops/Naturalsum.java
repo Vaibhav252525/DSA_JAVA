@@ -1,3 +1,4 @@
+package Loops;
 public class Naturalsum {
     public static void main(String[] args) {
         int val = 1, sum = 0, n = 2;
