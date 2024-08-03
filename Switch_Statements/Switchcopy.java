@@ -1,9 +1,5 @@
 import java.util.Scanner;
 
-import javax.swing.DefaultBoundedRangeModel;
-
-import org.omg.CORBA.DynAnyPackage.Invalid;
-
 public class Switchcopy {
     public static void main(String[] args) {
         int x=0, y=0;
@@ -27,9 +23,12 @@ public class Switchcopy {
             case 'U':
             y++;
             break;
+
+            default:{
+            System.out.println("invalid");
+            sc.close();
         }
-        Default:
-        System.out.println("Invalid");
+    }
 
     }
 }
