@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Switchcopy {
     public static void main(String[] args) {
-        int x=0, y=0;
+        int x=0,y=0;
         System.out.println("Enter move");
         Scanner sc= new Scanner(System.in);
         char Move = sc.next().charAt(0);

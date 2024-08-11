@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "First_digit",
+            "request": "launch",
+            "mainClass": "Loops.First_digit",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "Count_digit",
+            "request": "launch",
+            "mainClass": "Loops.Count_digit",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
+            "name": "Switchcopy",
+            "request": "launch",
+            "mainClass": "Switchcopy",
+            "projectName": "DSA_JAVA_5bb1fc1d"
+        },
+        {
+            "type": "java",
             "name": "Switch",
             "request": "launch",
             "mainClass": "Switch_Statements.Switch",
