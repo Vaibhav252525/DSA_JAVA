@@ -6,6 +6,104 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Optimizedprime",
+            "request": "launch",
+            "mainClass": "Optimizedprime",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "Primerange",
+            "request": "launch",
+            "mainClass": "Primerange",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "First_digit",
+            "request": "launch",
+            "mainClass": "Loops.First_digit",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "K",
+            "request": "launch",
+            "mainClass": "K",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "Fibonnaci_number",
+            "request": "launch",
+            "mainClass": "Loops.Fibonnaci_number",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "PrimeFactor",
+            "request": "launch",
+            "mainClass": "Loops.PrimeFactor",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "Alldivisor",
+            "request": "launch",
+            "mainClass": "Loops.Alldivisor",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "Lcm",
+            "request": "launch",
+            "mainClass": "Loops.Lcm",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "Gcd",
+            "request": "launch",
+            "mainClass": "Loops.Gcd",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "Practice",
+            "request": "launch",
+            "mainClass": "Practice",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "String_Patern_search",
+            "request": "launch",
+            "mainClass": "Strings.String_Patern_search",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "StringOp1",
+            "request": "launch",
+            "mainClass": "Strings.StringOp1",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "Switch1",
+            "request": "launch",
+            "mainClass": "Switch1",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "Fact",
+            "request": "launch",
+            "mainClass": "Fact",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
             "name": "Table_diff",
             "request": "launch",
             "mainClass": "Loops.Table_diff",
