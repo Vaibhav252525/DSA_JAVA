@@ -6,6 +6,160 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Palindrom_String",
+            "request": "launch",
+            "mainClass": "Strings.Palindrom_String",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "Pattern8",
+            "request": "launch",
+            "mainClass": "Pattern8",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "Pattern7",
+            "request": "launch",
+            "mainClass": "Pattern7",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "StarPattern",
+            "request": "launch",
+            "mainClass": "StarPattern",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "Pattern6",
+            "request": "launch",
+            "mainClass": "Pattern6",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "Pattern5",
+            "request": "launch",
+            "mainClass": "Pattern5",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "Pattern4",
+            "request": "launch",
+            "mainClass": "Pattern4",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "Pattern3",
+            "request": "launch",
+            "mainClass": "Pattern3",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "Pattern2",
+            "request": "launch",
+            "mainClass": "Pattern2",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "ThreeStar",
+            "request": "launch",
+            "mainClass": "ThreeStar",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "MissingElement",
+            "request": "launch",
+            "mainClass": "MissingElement",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "Practice",
+            "request": "launch",
+            "mainClass": "Practice.Practice",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "input",
+            "request": "launch",
+            "mainClass": "input",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "CreateArray",
+            "request": "launch",
+            "mainClass": "CreateArray",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "Arrayinput",
+            "request": "launch",
+            "mainClass": "Arrayinput",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Strings.Reverse",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "PF",
+            "request": "launch",
+            "mainClass": "Loops.PF",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "Distinct",
+            "request": "launch",
+            "mainClass": "Distinct",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "Square",
+            "request": "launch",
+            "mainClass": "Square",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "In",
+            "request": "launch",
+            "mainClass": "In",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "GeometricProgression",
+            "request": "launch",
+            "mainClass": "GeometricProgression",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci_series",
+            "request": "launch",
+            "mainClass": "Fibonacci_series",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
             "name": "Optimizedprime",
             "request": "launch",
             "mainClass": "Optimizedprime",
