@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Array_input_function",
+            "request": "launch",
+            "mainClass": "Array_input_function",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
             "name": "Palindrom_String",
             "request": "launch",
             "mainClass": "Strings.Palindrom_String",
