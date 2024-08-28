@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Reverse",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
             "name": "Count_distinct",
             "request": "launch",
             "mainClass": "Count_distinct",
