@@ -10,7 +10,7 @@ public class SmallestArray {
         
     }
     public static void main(String[] args) {
-        int array[]={12,23,34,45,56};
+        int array[]={44,12,23,34,45,56};
         smallest(array);
     }
     

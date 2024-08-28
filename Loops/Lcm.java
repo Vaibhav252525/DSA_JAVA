@@ -9,7 +9,7 @@ public class Lcm {
         for(int i=x;i<=y;i++){
             if (i%a==0 && i%b==0) {
                 ans=i;
-                // break;
+                break;
             }
         }
         System.out.println(ans);

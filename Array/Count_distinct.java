@@ -1,14 +1,13 @@
-
-public class Distinct {
+public class Count_distinct {
+    
     public static void distinct(int arr[]) {
-             
+        int count=0;     
         for(int i =0;i<arr.length;i++){
 
             for(int j=0;j<=i;j++){
 
                 if(i==j){
-                    System.out.println(arr[i]);
-                    break;
+                    count++;
                 }
                 
                 if(arr[i]==arr[j]){
@@ -18,7 +17,7 @@ public class Distinct {
             }
             
         }
-        
+        System.out.println(count);
        
     }
 

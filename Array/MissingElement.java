@@ -1,5 +1,3 @@
-import java.util.Arrays;
-import java.util.Scanner;
 
 public class MissingElement {
     public static void main(String[] args) {

@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Count_distinct",
+            "request": "launch",
+            "mainClass": "Count_distinct",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "SortedArray",
+            "request": "launch",
+            "mainClass": "SortedArray",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "SmallestArray",
+            "request": "launch",
+            "mainClass": "SmallestArray",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "Findavg",
+            "request": "launch",
+            "mainClass": "Findavg",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "Naturalsum",
+            "request": "launch",
+            "mainClass": "Loops.Naturalsum",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "FindNthTerm",
+            "request": "launch",
+            "mainClass": "FindNthTerm",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "CommandArgument",
+            "request": "launch",
+            "mainClass": "CommandArgument",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "Count_digit",
+            "request": "launch",
+            "mainClass": "Loops.Count_digit",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "Fibowithfunction",
+            "request": "launch",
+            "mainClass": "Loops.Fibowithfunction",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "LastDigit",
+            "request": "launch",
+            "mainClass": "LastDigit",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
             "name": "Array_input_function",
             "request": "launch",
             "mainClass": "Array_input_function",
