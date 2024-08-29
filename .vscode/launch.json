@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Creating_arr",
+            "request": "launch",
+            "mainClass": "Multidimensinal.Creating_arr",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "Predict_column",
+            "request": "launch",
+            "mainClass": "Multidimensinal.Predict_column",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "Pair",
+            "request": "launch",
+            "mainClass": "Pair",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
             "name": "Reverse",
             "request": "launch",
             "mainClass": "Reverse",
