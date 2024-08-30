@@ -1,4 +1,4 @@
-package Strings;
+
 
 public class Palindrom_String {
     public static boolean isPalin(String s1){

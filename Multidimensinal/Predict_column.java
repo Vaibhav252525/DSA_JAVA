@@ -9,7 +9,7 @@ public class Predict_column {
             int count =0;
             for(int j=0;j<array[i].length;j++){
                 
-                if(array[j][i]==0){
+                if(array[i][j]==0){
                     count++;
                 }
                 

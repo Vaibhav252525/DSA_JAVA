@@ -1,4 +1,4 @@
-package Strings;
+
 
 public class String_Patern_search {
     public static void main(String[] args) {

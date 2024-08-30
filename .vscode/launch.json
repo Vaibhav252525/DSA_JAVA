@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Almost_equals",
+            "request": "launch",
+            "mainClass": "Almost_equals",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "S",
+            "request": "launch",
+            "mainClass": "S",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "Count_vovels",
+            "request": "launch",
+            "mainClass": "Strings.Count_vovels",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "S",
+            "request": "launch",
+            "mainClass": "Strings.S",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
             "name": "Creating_arr",
             "request": "launch",
             "mainClass": "Multidimensinal.Creating_arr",
