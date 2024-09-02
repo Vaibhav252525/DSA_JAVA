@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Sub_array",
+            "request": "launch",
+            "mainClass": "Sub_array",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "Strings_new_method",
+            "request": "launch",
+            "mainClass": "Strings_new_method",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "Buffer_t0_builder",
+            "request": "launch",
+            "mainClass": "Buffer_t0_builder",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "Buider_to_buffer",
+            "request": "launch",
+            "mainClass": "Buider_to_buffer",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "StringBuild",
+            "request": "launch",
+            "mainClass": "StringBuild",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "Count_vovels",
+            "request": "launch",
+            "mainClass": "Count_vovels",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "One_extra_ch",
+            "request": "launch",
+            "mainClass": "One_extra_ch",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
+            "name": "Palindrom_String",
+            "request": "launch",
+            "mainClass": "Palindrom_String",
+            "projectName": "DSA_JAVA_57b38afc"
+        },
+        {
+            "type": "java",
             "name": "Almost_equals",
             "request": "launch",
             "mainClass": "Almost_equals",
